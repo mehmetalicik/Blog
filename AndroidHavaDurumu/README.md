@@ -1,6 +1,6 @@
 # Android için Hava Durumu Uygulaması
 
-Bu uygulamada OpenWeatherMap API'si kullanılarak oluşturulmuş ve mevcut konumun sıcaklık bilgisini ekranda gösteren basit bir Android için uygulama tasarlanmıştır. 
+Bu uygulamada OpenWeatherMap API'si kullanılarak oluşturulmuş ve mevcut konumun sıcaklık bilgisini ekranda gösteren Android için basit bir uygulama tasarlanmıştır. 
 
 **Minimum Android API Versiyon:** 16 (Android 4.1)
 
