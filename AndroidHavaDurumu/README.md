@@ -9,7 +9,8 @@ Bu uygulamada OpenWeatherMap API'si kullanılarak oluşturulmuş ve mevcut konum
 **Programlama Dili:** Java
 
 [Blog girdisi](http://www.mkytr.com/2017/09/android-icin-hava-durumu-uygulamas.html "Uygulama blog girdisi sayfası")
-[APK Dosyasını İndirin]("https://drive.google.com/open?id=0B9eGrIuv8-9zaV9xSWNkZVZfV1E")
+
+[APK Dosyasını İndirin](https://drive.google.com/open?id=0B9eGrIuv8-9zaV9xSWNkZVZfV1E "APK Dosyasını indirin")
 
 [![Uygulama Ekran Görüntüsü](https://s26.postimg.org/5vjyg53h5/uygulama_ekran_g_r_nt_s.png)](https://postimg.org/image/6xu4yomad/)
 
