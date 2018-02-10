@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocationListeningApp</string>
+    <string name="tvStatusPlaceholder">Yertutucu yazı</string>
+    <string name="bShowResultsText">Sonuçları Göster</string>
+    <string name="status_PermissionNeeded">Konum izinleri gerekli</string>
+    <string name="status_ServiceStarted">Servis başladı</string>
+    <string name="title_activity_results">Harita</string>
+    <string name="desc_task">Arkaplanda konumunuzu bulan bir uygulama</string>
+    <string name="bExportDbText">Veritabanını Çıkart</string>
+    <string name="toast_export_result_success">Dosya başarıyla çıkarıldı</string>
+</resources>

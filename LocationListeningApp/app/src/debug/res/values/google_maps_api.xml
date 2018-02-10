@@ -1,0 +1,42 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=B3:C0:5B:6F:04:FE:3A:E3:18:F5:B2:8B:5A:60:64:A1:FE:E5:4F:58%3Bcom.mkytr.locationlisteningapp.Activities
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    B3:C0:5B:6F:04:FE:3A:E3:18:F5:B2:8B:5A:60:64:A1:FE:E5:4F:58
+
+    SHA-1 certificate fingerprint:
+    B3:C0:5B:6F:04:FE:3A:E3:18:F5:B2:8B:5A:60:64:A1:FE:E5:4F:58
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+	
+	<!--
+	YAPILACAKLAR: Uygulamayı çalıştırmadan önce Google Maps API anahtarına ihtiyacınız var.
+	
+	Bir tane anahtar alabilmek için bağlantıdaki adımları takip edin:	https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=B3:C0:5B:6F:04:FE:3A:E3:18:F5:B2:8B:5A:60:64:A1:FE:E5:4F:58%3Bcom.mkytr.locationlisteningapp.Activities
+	
+	Paket adı:
+	B3:C0:5B:6F:04:FE:3A:E3:18:F5:B2:8B:5A:60:64:A1:FE:E5:4F:58
+	
+	SHA-1 sertifikası parmak izi:
+	B3:C0:5B:6F:04:FE:3A:E3:18:F5:B2:8B:5A:60:64:A1:FE:E5:4F:58
+	
+	Alternatif olarak buradaki adımları takip edebilirsiniz:
+	https://developers.google.com/maps/documentation/android/start#get-key
+	
+	Anahtarınız "AIza" ile başlamalı, anahtarı aldıktan sonra aşağıdaki yere yapıştırın.
+	-->
+	
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false"><!-- TODO: put api key --></string>
+</resources>
