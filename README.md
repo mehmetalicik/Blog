@@ -1,7 +1,7 @@
 # Blog
 
 Bu depoda kişisel blogumda bilgi paylaşmak amacıyla geliştirdiğim açık kaynak bazı yazılımlar ve kodları paylaşmaktayım. 
-[Blog'a erişin](http://mktr.com)
+[Blog'a erişin](http://mkytr.com)
 
 ## AndroidHavaDurumu
 
